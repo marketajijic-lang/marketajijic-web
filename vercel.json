@@ -2,7 +2,6 @@
   "cleanUrls": true,
   "trailingSlash": false,
   "rewrites": [
-    { "source": "/email-confirmado", "destination": "/email-confirmed.html" },
-    { "source": "/contrasena-actualizada", "destination": "/contrasena-actualizada.html" }
+    { "source": "/email-confirmado", "destination": "/email-confirmed" }
   ]
 }
